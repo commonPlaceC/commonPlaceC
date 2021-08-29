@@ -30,13 +30,13 @@
 <br/>
 
 ## Contacts
-
-[<img align="left" alt="Commonplace | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Commonplace | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
+<!-- Instagram -->
+[![telegram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/commonplacefake/?hl=ru)
+<!-- Telegram -->
+[![telegram](https://img.shields.io/badge/-TELEGRAM-black?style=for-the-badge&logo=telegram)](https://t.me/Phtmct)
+<!-- VK -->
+[![telegram](https://img.shields.io/badge/-vk-black?style=for-the-badge&logo=vk)](https://vk.com/tail753)
 
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/commonplacefake/?hl=ru
-[telegram]: https://t.me/Phtmct
