@@ -13,30 +13,33 @@
 ![OS](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android)
 <br/>
 <br/>
-<img align="left" src="https://img.icons8.com/color/37/000000/visual-studio-code-2019.png"/>
-<img align="left" src="https://img.icons8.com/color/37/000000/git.png"/>
-<img align="left" src="https://img.icons8.com/color/37/000000/firebase.png"/>
-<img align="left" src="https://img.icons8.com/color/28/000000/react-native.png"/>
-<br/>
+<img align="left" src="https://img.icons8.com/color/35/000000/visual-studio-code-2019.png"/>
+<img align="left" src="https://img.icons8.com/color/35/000000/git.png"/>
+<img align="left" src="https://img.icons8.com/color/35/000000/firebase.png"/>
+<img align="left" src="https://img.icons8.com/color/35/000000/react-native.png"/>
 <br/>
 
 ### ⌨️Languages:
 
-<img align="left" src="https://img.icons8.com/color/28/000000/python--v1.png"/>
-<img align="left" src="https://img.icons8.com/color/28/000000/javascript--v1.png"/>
-<img align="left" src="https://img.icons8.com/color/28/000000/css3.png"/>
-<img align="left" src="https://img.icons8.com/color/28/000000/c-plus-plus-logo.png"/>
+<img align="left" src="https://img.icons8.com/color/25/000000/python--v1.png"/>
+<img align="left" src="https://img.icons8.com/color/25/000000/javascript--v1.png"/>
+<img align="left" src="https://img.icons8.com/color/25/000000/css3.png"/>
+<img align="left" src="https://img.icons8.com/color/25/000000/c-plus-plus-logo.png"/>
 <br/>
 <br/>
 
 ## Contacts
+
 <!-- Instagram -->
-[![telegram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/commonplacefake/?hl=ru)
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram"/>][instagram]
 <!-- Telegram -->
-[![telegram](https://img.shields.io/badge/-TELEGRAM-black?style=for-the-badge&logo=telegram)](https://t.me/Phtmct)
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram"/>][telegram]
 <!-- VK -->
-[![telegram](https://img.shields.io/badge/-vk-black?style=for-the-badge&logo=vk)](https://vk.com/tail753)
+[<img align="left" alt="vk" src="https://img.shields.io/badge/-vk-black?style=for-the-badge&logo=vk"/>][vk]
 
 <br />
 <br />
 
+[instagram]: https://www.instagram.com/commonplacefake/?hl=ru
+[telegram]: https://t.me/Phtmct
+[vk]: https://vk.com/tail753
