@@ -17,6 +17,7 @@
 <img align="left" src="https://img.icons8.com/color/35/000000/git.png"/>
 <img align="left" src="https://img.icons8.com/color/35/000000/firebase.png"/>
 <img align="left" src="https://img.icons8.com/color/35/000000/react-native.png"/>
+<img align="left" src="https://img.icons8.com/color/35/000000/nodejs.png"/>
 <br/>
 
 ### ⌨️Languages:
