@@ -2,7 +2,7 @@
 
 ### About me
 - 🎓 I'm a student of MIREA University 
-- ☕ Currenly learning new languages, and developing my website
+- ☕ Currently learning new languages, and developing my website
 - ✔️ Facts: i love coffee
 
 ---
