@@ -2,11 +2,7 @@
 
 ### About me
 - 🎓 I'm a student of MIREA University 
-<<<<<<< HEAD
 - ☕ Currently learning languages, and studying math...
-=======
-- ☕ Currently learning new languages
->>>>>>> 63201a2a1a5c7dd9986076f5148ffd87745948aa
 - ✔️ Facts: i love coffee
 
 ---
