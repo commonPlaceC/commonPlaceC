@@ -11,7 +11,7 @@
 
 ![OS](https://img.shields.io/badge/OS-Windows%2011-informational?style=flat&logo=windows)
 ![OS](https://img.shields.io/badge/OS-Android%2012-informational?style=flat&logo=android)
-![OS](https://img.shields.io/badge/OS-IOS%2015-informational?style=flat&logo=ios)
+![OS](https://img.shields.io/badge/OS-IOS%2016-informational?style=flat&logo=ios)
 <br/>
 <br/>
 <img align="left" src="https://img.icons8.com/color/35/000000/visual-studio-code-2019.png"/>
