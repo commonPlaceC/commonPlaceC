@@ -1,9 +1,8 @@
 ## Hey! It's Commonplace <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "28" height = "28">
 
 ### About me
-- 🎓 I'm a student of MIREA University 
-- ☕ Currently learning languages, and studying math...
-- ✔️ Facts: i love coffee
+- 🎓 I'm a student of the University 
+- ☕ Drinking coffeee...
 
 ---
 
