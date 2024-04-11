@@ -5,42 +5,30 @@
 - ☕ Drinking coffeee...
 
 ---
-
 ### ⚙️Technologies and tools:
-
-![OS](https://img.shields.io/badge/-Windows%20-informational?style=flat&logo=windows)
-![OS](https://img.shields.io/badge/Android%20-informational?style=flat&logo=android)
-![OS](https://img.shields.io/badge/MacOS%20-informational?style=flat&logo=macos)
-![OS](https://img.shields.io/badge/IOS%20-informational?style=flat&logo=ios)
-<br/>
-<br/>
-<img align="left" src="https://img.icons8.com/color/35/000000/visual-studio-code-2019.png"/>
-<img align="left" src="https://img.icons8.com/color/35/000000/git.png"/>
-<img align="left" src="https://img.icons8.com/color/35/000000/mongodb.png"/>
-<img align="left" src="https://img.icons8.com/color/35/000000/react-native.png"/>
-<img align="left" src="https://img.icons8.com/color/35/000000/nodejs.png"/>
+<img align="left" alt="VS Code" src="https://img.icons8.com/color/35/000000/visual-studio-code-2019.png"/>
+<img align="left" alt="Git" src="https://img.icons8.com/color/35/000000/git.png"/>
+<img align="left" alt="ReactJs" src="https://img.icons8.com/plasticine/35/react.png"/>
+<img align="left" alt="ESLint" src="https://img.icons8.com/color/35/000000/eslint.png"/>
+<img align="left" alt="NodeJs" src="https://img.icons8.com/color/35/000000/nodejs.png"/>
+<img align="left" alt="MongoDB" src="https://img.icons8.com/color/35/000000/mongodb.png"/>
 <br/>
 
 ### ⌨️Languages:
 
-<img align="left" src="https://img.icons8.com/color/25/000000/javascript--v1.png"/>
-<img align="left" src="https://img.icons8.com/color/25/000000/html-5--v1.png"/>
-<img align="left" src="https://img.icons8.com/color/25/000000/css3.png"/>
+<img align="left" alt="JavaScript" src="https://img.icons8.com/color/25/000000/javascript--v1.png"/>
+<img align="left" alt="TypeScript" src="https://img.icons8.com/color/25/typescript.png"/>
+<img align="left" alt="HTML 5" src="https://img.icons8.com/color/25/000000/html-5--v1.png"/>
+<img align="left" alt="CSS 3" src="https://img.icons8.com/color/25/000000/css3.png"/>
 <br/>
 <br/>
 
+---
 ## Contacts
 
-<!-- Instagram -->
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram"/>][instagram]
 <!-- Telegram -->
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram"/>][telegram]
-<!-- VK -->
-[<img align="left" alt="vk" src="https://img.shields.io/badge/-vk-black?style=for-the-badge&logo=vk"/>][vk]
+[<img align="left" alt="telegram" src="https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram"/>][telegram]
 
 <br />
-<br />
 
-[instagram]: https://www.instagram.com/commonplacefake/?hl=ru
 [telegram]: https://t.me/Phtmct
-[vk]: https://vk.com/tail753
