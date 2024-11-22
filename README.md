@@ -6,7 +6,6 @@
 
 ---
 ### ⚙️Technologies and tools:
-<img align="left" alt="VS Code" src="https://img.icons8.com/color/35/000000/visual-studio-code-2019.png"/>
 <img align="left" alt="Git" src="https://img.icons8.com/color/35/000000/git.png"/>
 <img align="left" alt="ReactJs" src="https://img.icons8.com/plasticine/35/react.png"/>
 <img align="left" alt="ESLint" src="https://img.icons8.com/color/35/000000/eslint.png"/>
